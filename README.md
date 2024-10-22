@@ -126,5 +126,3 @@
   ![Backup Screenshot](assets/backup.jpg)
 
 ---
-
-By following the above steps, system administrators can manage essential tasks using `sysopctl` with ease. Make sure to explore each feature and use the accompanying screenshots for better guidance.
